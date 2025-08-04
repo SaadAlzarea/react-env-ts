@@ -1,7 +1,7 @@
 installation: {
-tailwind,
-router,
-axios,
-react icon,
-react toast alert,
+  tailwind,
+  router,
+  axios,
+  react icon,
+  react toast alert,
 }
